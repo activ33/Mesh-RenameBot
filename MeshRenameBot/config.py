@@ -17,7 +17,7 @@ except ImportError:
         # Access Restriction
         IS_PRIVATE = [bool, False]
         AUTH_USERS = [list,[689061386]]
-        OWNER_ID = [int, 689061386]
+        OWNER_ID = [int,689061386]
 
         # Public username url or invite link of private chat
         FORCEJOIN = [str,"animefiles"]
