@@ -21,7 +21,7 @@ except ImportError:
 
         # Public username url or invite link of private chat
         FORCEJOIN = [str,"animefiles"]
-        FORCEJOIN_ID = [int,-1328254270]
+        FORCEJOIN_ID = [int,-1202033572]
 
         TRACE_CHANNEL = [int, 0]
 
